@@ -4,4 +4,6 @@
 ### by csk200387
 
 
+
+## [데이터 파일 준비하기](https://github.com/csk200387/TwitchDataAnalyzer/blob/main/tutorial/tutorial-korean.md)
 ## [Google Colab Page](https://colab.research.google.com/github/csk200387/TwitchDataAnalyzer/blob/main/TwitchDataAnalyzer.ipynb)
